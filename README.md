@@ -1,22 +1,22 @@
-Mokkapps GitHub README header image
-     
+Hi, I'm Hussien Roshdy! 
 
-Latest Blog Posts
-Focus & Code Diff in Nuxt Content Code Blocks
-Lazy Load Vue Component When It Becomes Visible
-A Comprehensive Guide to Data Fetching in Nuxt 3
-What's New in Vue 3.3
-Ref vs. Reactive: What to Choose Using Vue 3 Composition API?
-➡️ More blog posts
 
-Latest Newsletter Issues
-Weekly Vue News #123 - Composable to Define Keyboard Shortcuts
-Weekly Vue News #122 - Use a Head Manager
-Weekly Vue News #121 - Automatically Import Components
-Weekly Vue News #120 - Nuxt Server Routes Playground
-Weekly Vue News #119 - Simple Pinia History With Undo and Redo Functionality
-➡️ More issues
+Software Enginner at University of Brasilia
+Developer Consultant at ThoughtWorks
 
-GitHub Stats
-GitHub Stats
+Twitter: ThaiiBraga Linkedin: thaianebraga GitHub Thaiane
 
+ A little more about me...
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+ I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
