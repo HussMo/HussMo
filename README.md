@@ -13,7 +13,7 @@ I'm a dedicated Mobile Engineer with a strong background in Flutter development.
 
 Connect with me:
 <a href="https://www.linkedin.com/in/hussien-mohamed-2bb7b0163/" target="_blank">
-  <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="30" width="30" />
+  <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="25" width="25" />
 </a>
 
 
