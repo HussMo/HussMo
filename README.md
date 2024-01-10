@@ -12,7 +12,7 @@ I'm a dedicated Mobile Engineer with a strong background in Flutter development.
 ⚡ Fun fact always learning
 
 Connect with me:
-<a href="https://www.linkedin.com/in/your-profile" class="LinkedIn-button">
+<a href="[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/hussien-mohamed-2bb7b0163/)" class="LinkedIn-button">
    <img src="path-to-your-LinkedIn-logo.png" alt="LinkedIn Logo">
 </a>
 
